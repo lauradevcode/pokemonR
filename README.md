@@ -1,4 +1,4 @@
-# pokedex
+# pokemon layout
 
 ## Project setup
 ```
@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Considerações finais
