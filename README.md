@@ -1,4 +1,4 @@
-# pokedex
+# pokemon layout
 
 ## Project setup
 ```
