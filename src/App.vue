@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div id="app">
     <div id="header">
       <img src="./assets/banner_pokedex(1).png" />
@@ -6,7 +6,7 @@
     <div class="pesquisar">
       <input class="input is-normal" type="text" placeholder="Pesquisar">
       <label class="label"
-        >Use a pesquisa avançada para explorar Pokémon por tipo, fraqueza,
+        >Use a pesquisa avanÃ§ada para explorar Pokemon por tipo, fraqueza,
         habilidade e mais!</label
       >
     </div>
@@ -31,7 +31,7 @@
         role="navigation"
         aria-label="pagination"
       >
-        <a class="pagination-previous" style="margin-left: 320px;">Próxima</a>
+        <a class="pagination-previous" style="margin-left: 320px;">PrÃ³xima</a>
         <a class="pagination-next" style="margin-right: 370px;">Anterior</a>
         <ul class="pagination-list">
           <li><a class="pagination-link" aria-label="Goto page 1">1</a></li>
