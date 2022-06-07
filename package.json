@@ -16,7 +16,7 @@
     "mongoose": "^5.12.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.1",
-    "vue": "^2.6.12"
+    "vue": "^2.6.14"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.12",
